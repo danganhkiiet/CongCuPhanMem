@@ -1,0 +1,9 @@
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\obj\Debug\DAL.dll
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\obj\Debug\DAL.pdb
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\bin\Debug\DAL.dll
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\bin\Debug\DAL.pdb
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\bin\Debug\DTO.dll
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\bin\Debug\DTO.pdb
+D:\CaoThang\C#\do_an\quan_li_ban_dien_thoai\DAL\obj\Debug\DAO.csproj.CopyComplete
